@@ -5,7 +5,7 @@
 * 👯 I’m looking to collaborate on **software development and web application projects**
 * 🤔 I’m interested in **web development, database management, and software testing**
 * 💬 Ask me about **Python, JavaScript, SQL, web development, and Git**
-* 📫 How to reach me: **[nandana.ka@example.com](mailto:nandana.ka@example.com)**
+* 📫 How to reach me: **[nandana.ka@example.com](mailto:nandanaaravind48@gmail.com)**
 * 🔗 LinkedIn: **linkedin.com/in/nandana-ka**
 * 💻 GitHub: **github.com/nandana154**
 * 😄 Pronouns: **She/Her**
