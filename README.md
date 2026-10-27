@@ -30,28 +30,6 @@ I enjoy learning new technologies, solving programming problems, and working col
 * HTML & CSS
 * Git & GitHub
 
----
-
-## 💼 Experience
-
-**Junior Software Developer**
-TechSolutions Pvt. Ltd. | 2024 – Present
-
-* Developed and maintained web-based applications.
-* Built reusable components using Python and JavaScript.
-* Designed and optimized SQL queries.
-* Debugged and tested software applications.
-* Worked with development teams using Git and Agile practices.
-
-**Software Development Intern**
-CodeCraft Technologies | 2023 – 2024
-
-* Assisted in developing and testing web applications.
-* Worked with SQL databases and CRUD operations.
-* Participated in debugging and code reviews.
-* Prepared technical documentation.
-
----
 
 ## 🚀 Projects
 
