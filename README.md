@@ -1,6 +1,6 @@
 # Hi, I'm Nandana.K A 👋
 
-* 🔭 I’m currently working as a **Junior Software Developer** at TechSolutions Pvt. Ltd.
+* 🔭 I’m doing masters in mvoc software application development.
 * 🌱 I’m currently improving my skills in **Python, Java, JavaScript, SQL, HTML & CSS**
 * 👯 I’m looking to collaborate on **software development and web application projects**
 * 🤔 I’m interested in **web development, database management, and software testing**
