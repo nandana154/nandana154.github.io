@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Swap Links</title>
+</head>
+
+<body>
+
+    <a id="link1" href="index.html">Index</a>
+
+    <br><br>
+
+    <a id="link2" href="about.html">About</a>
+
+    <br><br>
+
+    <button onclick="swap()">Swap</button>
+    <!-- Swap Section -->
+
+<div id="index">
+    <h2>Index</h2>
+    <button onclick="showAbout()">About</button>
+</div>
+
+<div id="about" style="display:none;">
+    <h2>About</h2>
+    <p>This is About page</p>
+    <button onclick="showIndex()">Index</button>
+</div>
+
+<script>
+    function showAbout() {
+        document.getElementById("index").style.display = "none";
+        document.getElementById("about").style.display = "block";
+    }
+
+    function showIndex() {
+        document.getElementById("about").style.display = "none";
+        document.getElementById("index").style.display = "block";
+    }
+</script>
+
+    
+</body>
+</html>
